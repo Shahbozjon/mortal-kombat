@@ -98,10 +98,6 @@ a {
   margin-left: 10px;
   vertical-align: revert;
 }
-@media (max-width: 1200px) {
-  .app {
-  }
-}
 @media (max-width: 768px) {
   .app {
     height: auto;
