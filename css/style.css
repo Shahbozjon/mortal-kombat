@@ -41,9 +41,7 @@ a {
       #010202 0%,
       #010202 43%,
       rgba(1, 2, 2, 0.2) 90.9%
-    )
-    /*,
-    url(../img/cover-image.jpg) no-repeat center right;*/;
+    );
   min-height: 100vh;
   color: #fff;
 }
